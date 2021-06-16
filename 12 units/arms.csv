@@ -1,0 +1,19 @@
+Unit,MEL pwr,RNG pwr,TEC pwr,HP,PP,M DEF,R DEF,T DEF,M RES,R RES,T RES,Light RES,Dark RES,Fire RES,Ice RES,Lightning RES,Wind RES,DEX
+Arms / Circaray,25,25,25,50,9,315,315,315,2,2,2,0,0,0,0,0,0,0
+Arms / Circaunion,25,25,25,75,9,320,320,320,4,2,2,0,0,0,0,0,0,0
+Arms / Gix Qud,30,30,30,50,10,299,299,299,0,0,0,3,3,2,2,2,2,0
+Arms / Whiteal Pina,20,20,20,0,20,270,270,301,0,0,4,4,0,0,0,0,0,0
+Arms / Lightning Glow Izaneshiki,20,20,20,150,0,361,340,340,4,4,4,4,0,0,0,6,0,20
+Arms / Astra Paio,20,20,20,60,10,326,322,330,2,2,2,0,3,2,2,0,0,0
+Arms / Deadlio Est,40,0,0,150,0,320,289,289,3,2,1,0,0,0,0,0,0,0
+Arms / Ofzende,0,0,0,70,5,329,301,315,4,4,5,3,0,0,3,0,3,0
+Arms / Zeinesis Lita,15,15,15,120,4,336,341,348,3,3,2,2,2,2,2,2,2,0
+Arms / Clifard Lita,35,35,35,40,13,322,330,323,2,2,1,0,0,0,0,0,0,0
+Arms / Ivlida Ritt,25,25,25,60,10,327,327,327,3,3,3,0,2,2,0,0,0,0
+Arms / Cleasis Ritt,40,40,40,90,10,344,344,344,4,4,4,0,3,3,0,0,0,0
+Sub / Stella Wall,15,15,15,50,5,320,320,320,2,2,2,0,0,0,0,0,0,0
+Arms / Xerraire Cuirass,85,0,0,0,17,400,326,320,4,2,1,0,5,0,0,0,0,0
+Arms / Hanging Board,40,40,40,50,10,331,336,344,4,4,5,0,0,0,0,0,0,0
+Arms / Phobos Hedge,40,40,40,80,0,368,368,368,5,5,5,0,0,0,0,0,0,0
+Arms / Starquake Mount Luxion,25,25,25,70,8,333,333,333,4,4,4,0,4,0,0,0,0,0
+Arms / Trailblazer Mount Luxion,50,50,50,100,15,371,371,371,5,5,5,5,5,0,0,0,0,0

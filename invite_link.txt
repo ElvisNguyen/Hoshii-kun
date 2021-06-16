@@ -1,0 +1,1 @@
+https://discord.com/api/oauth2/authorize?client_id=746627595608653894&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize&response_type=code&scope=bot%20identify%20guilds%20guilds.join%20gdm.join%20messages.read

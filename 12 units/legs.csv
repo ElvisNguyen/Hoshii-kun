@@ -1,0 +1,17 @@
+Unit,MEL pwr,RNG pwr,TEC pwr,HP,PP,M DEF,R DEF,T DEF,M RES,R RES,T RES,Light RES,Dark RES,Fire RES,Ice RES,Lightning RES,Wind RES,DEX
+Legs / Circuray,25,25,25,50,9,315,315,315,2,2,2,0,0,0,0,0,0,0
+Legs / Circunion,25,25,25,75,9,320,320,320,4,2,2,0,0,0,0,0,0,0
+Legs / Whiteal Aer,20,20,20,0,20,270,270,301,0,0,4,4,0,0,0,0,0,0
+Legs / Lightning Glow Izanesuchi,20,20,20,150,0,361,340,340,4,4,4,4,0,0,0,6,0,20
+Legs / Astra Rize,20,20,20,60,10,326,322,330,2,2,2,0,3,2,2,0,0,0
+Legs / Ofzetrogie,0,0,0,70,5,329,301,315,4,4,5,3,0,0,3,0,3,0
+Legs / Zeinesis Rem,15,15,15,120,4,336,341,348,3,3,2,2,2,2,2,2,2,0
+Legs / Clifard Rem,35,35,35,40,13,322,330,323,2,2,1,0,0,0,0,0,0,0
+Legs / Ivlida Cerbe,25,25,25,60,10,327,327,327,3,3,3,0,2,2,0,0,0,0
+Legs / Cleasis Cerbe,40,40,40,90,10,344,344,344,4,4,4,0,3,3,0,0,0,0
+Sub / Stella Wall,15,15,15,50,5,320,320,320,2,2,2,0,0,0,0,0,0,0
+Legs / Allure Aid ,0,85,0,0,17,320,400,326,1,4,2,0,5,0,0,0,0,0
+Legs / Tag Board,40,40,40,50,10,344,331,336,4,4,5,0,0,0,0,0,0,0
+Legs / Phobos Need,40,40,40,80,0,368,368,368,5,5,5,0,0,0,0,0,0,0
+Legs / Starquake Decor Dixion,25,25,25,70,8,333,333,333,4,4,4,0,4,0,0,0,0,0
+Legs / Trailblazer Decor Dixion,50,50,50,100,15,371,371,371,5,5,5,5,5,0,0,0,0,0
