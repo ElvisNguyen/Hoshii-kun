@@ -67,3 +67,9 @@ This bot is no longer being maintained and features are not guaranteed to work a
 [![Add Hoshii-kun](https://i.imgur.com/ACofrI9.png)](https://discord.com/api/oauth2/authorize?client_id=746627595608653894&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize&response_type=code&scope=bot%20identify%20guilds%20guilds.join%20gdm.join%20messages.read)
 
 **Image ⒸSEGA**
+
+
+### Acknowledgements / Special Thanks
+I would like to thank the entire Yume R&D Ops team for helping me test/intentionally break the bot's features while the bot was still in development.
+Special thanks to [@alairon](https://github.com/alairon) for collaborating/coordinating with me on age gate updates and urgent quest schedule scraping.
+
