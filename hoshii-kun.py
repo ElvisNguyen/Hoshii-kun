@@ -1409,6 +1409,7 @@ async def on_raw_reaction_remove(payload):
             str_spots_Left = "\nThe party is currently **FULL**"
         await message.edit(content = base_string + addon_string + str_spots_Left)
 
+#Shameful redundant code oops -w-        
 '''       
     if event.partyType == '4':
         if payload.user_id in event.playerList:
